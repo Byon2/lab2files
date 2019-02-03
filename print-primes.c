@@ -1,8 +1,8 @@
 /*
  print-prime.c
  By David Broman.
- Last modified: 2015-09-15
- This file is in the public domain.
+ print_number, is_prime, print_primes written/modified by Byon
+ Last modified: 2019-02-01
 */
 
 
