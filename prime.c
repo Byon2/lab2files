@@ -1,8 +1,7 @@
 /*
  prime.c
  By David Broman.
- Last modified: 2015-09-15
- This file is in the public domain.
+ Last modified: 2019-02-01 by Byon, modified is_prime function
 */
 
 
