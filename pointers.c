@@ -1,4 +1,4 @@
-
+// functions copycodes, work and variables list1, list2, count all written by byon
 
 
 #include <stdio.h>
